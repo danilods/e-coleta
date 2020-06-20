@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center"> 
-	 E-Coleta - Next Level Week 🚀 ! 
+	 :recycle:E-Coleta - Next Level Week 🚀 ! 
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/danilods/gobarber-admin?color=%FF9000">
