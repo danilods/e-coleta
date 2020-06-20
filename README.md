@@ -1,5 +1,6 @@
 <h1 align="center">
-    
+    <img src="ecoleta-capa.svg" title="GobarberAdmin"></h1>
+
 </h1>
 
 <h4 align="center"> 
