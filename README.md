@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center"> 
-	:heavy_check_mark:  E-Coleta - Next Level Week 🚀 ! :heavy_check_mark:
+	 E-Coleta - Next Level Week 🚀 ! 
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/danilods/gobarber-admin?color=%FF9000">
@@ -32,7 +32,7 @@
   <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#techs">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#use">Iniciando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license">License</a>
+  <a href="#license">Licença</a>
 </p>
 
 
